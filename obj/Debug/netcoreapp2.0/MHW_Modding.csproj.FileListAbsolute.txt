@@ -1,0 +1,9 @@
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\obj\Debug\netcoreapp2.0\MHW_Modding.csprojAssemblyReference.cache
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\obj\Debug\netcoreapp2.0\MHW_Modding.csproj.CoreCompileInputs.cache
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\obj\Debug\netcoreapp2.0\MHW_Modding.AssemblyInfoInputs.cache
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\obj\Debug\netcoreapp2.0\MHW_Modding.AssemblyInfo.cs
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\obj\Debug\netcoreapp2.0\MHPlayer.dll
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\obj\Debug\netcoreapp2.0\MHPlayer.pdb
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\bin\Debug\netcoreapp2.0\MHPlayer.deps.json
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\bin\Debug\netcoreapp2.0\MHPlayer.dll
+G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation\bin\Debug\netcoreapp2.0\MHPlayer.pdb

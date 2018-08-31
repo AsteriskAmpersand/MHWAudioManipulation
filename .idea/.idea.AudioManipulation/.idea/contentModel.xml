@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\83cab5" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Users\AsteriskAmpersand\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\AsteriskAmpersand\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_AudioManipulation.337954726.00" t="ExcludeRecursive" />
+    <e p="G:\Users\AsteriskAmpersand\RiderProjects\AudioManipulation" t="IncludeRecursive">
+      <e p="AudioManipulation.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Class1.cs" t="Include" />
+      <e p="DefaultStructure.cs" t="Include" />
+      <e p="DirectoryTree.cs" t="Include" />
+      <e p="FileContainer.cs" t="Include" />
+      <e p="Format.cs" t="Include" />
+      <e p="HelperFunctions.cs" t="Include" />
+      <e p="MHW_Modding.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="MHW_Modding.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SymbolicFile.cs" t="Include" />
+    </e>
+  </component>
+</project>

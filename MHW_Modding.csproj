@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.0</TargetFramework>
+        <AssemblyName>Audio_Manip</AssemblyName>
+        <RootNamespace>Audio_Manip</RootNamespace>
+	
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="NTree.cs" />
+    </ItemGroup>
+	
+
+
+</Project>
